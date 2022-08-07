@@ -37,7 +37,7 @@ useEffect(() => {
       <button onClick={() => getNews('cityam') }>CITYAM</button>
       <button onClick={() => getNews('smh') }>SMH</button>
       <button onClick={() => getNews('latimes') }>LATIMES</button>
-      {/* <button onClick={() => getNews('nyt') }>NYT</button> */}
+      <button onClick={() => getNews('nyt') }>NYT</button>  
       
       <button onClick={() => getNews('es') }>ES</button>
       <button onClick={() => getNews('un') }>UN</button>
